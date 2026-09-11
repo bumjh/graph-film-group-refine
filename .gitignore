@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.pytest_cache/
+
+checkpoints/
+outputs/
+data/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.csv
+*.xlsx
+*.xls
