@@ -64,7 +64,6 @@ python -m graph_film_group_refine.external_validate_graph_film `
   --datasets refuge,origa,g1020 `
   --refuge-root path\to\refuge `
   --origa-root path\to\origa_v2 `
-  --g1020-root path\to\G1020 `
   --threshold-modes sensitivity_0.95
 ```
 
